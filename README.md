@@ -58,7 +58,7 @@ Utilizando um conjunto de treino com 140 imagens, e um conjunto de validação c
 <h2 align="center">Analisando predições 📲</h2>
 
 <p> 
-Utilizei como threshold a confiaça de 70% na predição do objeto, para avaliar a precisão do meu algoritmo acertando os objetos. Após ordenar todas as iamgens do conjunto de teste por score, cheguei no seguinte resultado para as 10 melhores imagens e as 10 piores imagens:
+Utilizei como threshold a confiança de 70% na predição do objeto, para avaliar a precisão do meu algoritmo acertando os objetos. Após ordenar todas as iamgens do conjunto de teste por score, cheguei no seguinte resultado para as 10 melhores imagens e as 10 piores imagens:
 
 </p>
    
