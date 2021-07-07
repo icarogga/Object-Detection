@@ -75,7 +75,7 @@ Utilizei como threshold a confiança de 70% na predição do objeto, para avalia
 
   A precisão do modelo nos dados de validação é de: 94,79%
 
-  Alcançamos um resultado muito bom para a localização e classificação dos objetos, mesmo este sendo um dataset pequeno e com baixa qualidade. Então dá para se ter noção do qual poderoso o algoritmo é de quais resultados podemos alcançar com um dataset mais robusto.
+  Alcançamos um resultado muito bom para a localização e classificação dos objetos, mesmo este sendo um dataset pequeno e com baixa qualidade. Então dá para se ter noção do quão poderoso o algoritmo é de quais resultados podemos alcançar com um dataset mais robusto.
   Abaixo algumas imagens com a localização e classificação feita pelo algoritmo:
   
 <div align = "center"><img src="imagens/img6.png" alt="grafico"></div>
