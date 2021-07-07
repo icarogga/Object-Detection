@@ -34,8 +34,8 @@
 
 Para rotular todos os objetos utilizados em todas as imagens, utilizamos o site **[Makesense](https://makesense.ai)** para a criação das labels. abaixo exemplos de como ficam algumas imagens depois da utilização do Makesense.
 
- <div align = "center"><img src="imagens/1.png" alt="grafico"></div>
- <div align = "center"><img src="imagens/2.png" alt="grafico"></div>
+ <div align = "center"><img src="imagens/img1.png" alt="grafico"></div>
+ <div align = "center"><img src="imagens/img2.png" alt="grafico"></div>
 
    </p>
 
@@ -47,8 +47,8 @@ Para rotular todos os objetos utilizados em todas as imagens, utilizamos o site 
 
 Utilizando um conjunto de treino com 140 imagens, e um conjunto de validação com 30 imagens para verificar a precisão, foi possívil atingir uma precisão de 94,79% utilizado-se de 26 epochs para treinamento.
 
- <div align = "center"><img src="imagens/3.png" alt="grafico"></div>
- <div align = "center"><img src="imagens/4.png" alt="grafico"></div>
+ <div align = "center"><img src="imagens/img3.png" alt="grafico"></div>
+ <div align = "center"><img src="imagens/img4.png" alt="grafico"></div>
 
 
    </p>
@@ -62,7 +62,7 @@ Utilizei como threshold a confiaça de 70% na predição do objeto, para avaliar
 
 </p>
    
-<div align = "center"><img src="imagens/5.png" alt="grafico"></div>
+<div align = "center"><img src="imagens/img5.png" alt="grafico"></div>
 
 ---
 
@@ -78,9 +78,9 @@ Utilizei como threshold a confiaça de 70% na predição do objeto, para avaliar
   Alcançamos um resultado muito bom para a localização e classificação dos objetos, mesmo este sendo um dataset pequeno e com baixa qualidade. Então dá para se ter noção do qual poderoso o algoritmo é de quais resultados podemos alcançar com um dataset mais robusto.
   Abaixo algumas imagens com a localização e classificação feita pelo algoritmo:
   
-<div align = "center"><img src="imagens/6.png" alt="grafico"></div>
-<div align = "center"><img src="imagens/7.png" alt="grafico"></div>
-<div align = "center"><img src="imagens/8.png" alt="grafico"></div>
+<div align = "center"><img src="imagens/img6.png" alt="grafico"></div>
+<div align = "center"><img src="imagens/img7.png" alt="grafico"></div>
+<div align = "center"><img src="imagens/img8.png" alt="grafico"></div>
 
  
 </p>
