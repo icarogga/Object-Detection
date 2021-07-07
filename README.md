@@ -45,7 +45,7 @@ Para rotular todos os objetos utilizados em todas as imagens, utilizamos o site 
 
    <p>
 
-Utilizando um conjunto de treino com 140 imagens, e um conjunto de validação com 30 imagens para verificar a precisão, foi possívil atingir uma precisão de 94,79% utilizado-se de 26 epochs para treinamento.
+Utilizando um conjunto de treino com 140 imagens, e um conjunto de validação com 30 imagens, foi possívil atingir uma precisão de 94,79% utilizado-se de 26 epochs para treinamento.
 
  <div align = "center"><img src="imagens/img3.png" alt="grafico"></div>
  <div align = "center"><img src="imagens/img4.png" alt="grafico"></div>
