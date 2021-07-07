@@ -23,7 +23,7 @@
 <h2 align="center">Objetivo 📖</h2>
    
 <p align="center">
-  Utilizando um conjunto de dados de 200 imagens, o objetivo deste software é localizar e classificar 7 objetos diferentes em diversas imagens, utilizando o algoritmo ResNet. os objetos utilizados no dataset disponilizado foram: 'T', 'Carregador', 'Controle de ar condicionado', 'Controle de TV', 'Calculadora', 'lapiseira', 'Moeda de 1 real'.</p>
+  Utilizando um conjunto de dados de 200 imagens, o objetivo deste software é localizar e classificar 7 objetos diferentes em diversas imagens, utilizando o algoritmo ResNet. Os objetos utilizados no dataset disponilizado foram: 'T', 'Carregador', 'Controle de ar condicionado', 'Controle de TV', 'Calculadora', 'lapiseira', 'Moeda de 1 real'.</p>
 </p>
 
 ---
